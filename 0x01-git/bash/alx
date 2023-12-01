@@ -1,2 +1,7 @@
 #!/bin/bash
+#Master
 echo "ALX School is so sool!"
+#branch update_script
+echo "ALX School"
+#======
+
